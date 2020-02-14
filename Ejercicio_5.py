@@ -29,6 +29,6 @@ my_new_car.read_odometer()
 my_new_car.update_odometer(10)
 my_new_car.read_odometer()
 
-"""En este ultimo metetodo, pude observar que a ese mismo metodo se le pude 
+"""En este ultimo metodo, pude observar que a ese mismo metodo se le pude 
 agregar condiciones, ene ste caso fue el if junto con else, que significa 
 si cumple con tal cosa, hazlo, sino imprime "Usted no puede hacer esto"""
